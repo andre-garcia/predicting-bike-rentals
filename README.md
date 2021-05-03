@@ -1,0 +1,2 @@
+# Predicting bike rentals with decision trees and random forest
+The goal of this project is to predict bike rentals using decision trees and random forest algorithms. We are going to use data from a bicycle sharing system to predict the total number of bikes rented in a given hour of a specific day.
